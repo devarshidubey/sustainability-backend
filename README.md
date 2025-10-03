@@ -45,8 +45,8 @@ https://sustainability-frontend-jkd4ihah6-devarshis-projects-f7fd52ef.vercel.app
 1. **Clone the repository**
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/devarshidubey/sustainability-backend.git
+cd sustainability-backend
 ```
 2. **Backend setup (Flask)**
 ```
